@@ -2,37 +2,34 @@
 
 ## Overview
 
-This repository contains my capstone project developed as part of an AI-assisted development track.
+This repository documents a capstone project built through an AI-assisted development track, using Cursor alongside standard software engineering practices.
 
-The project will demonstrate the use of modern software development practices together with AI-assisted tools such as Cursor.
+## Project Goal
+
+Develop a Node.js application end to end—from initial scaffold through version-controlled iteration—while making AI assistance a deliberate part of the workflow rather than an afterthought.
+
+**Deliverables**
+
+- A working application with a clearly defined scope
+- A Git history using conventional commits that shows iterative, review-driven development
+- Documentation of how AI tools were used for implementation, review, and refinement
 
 ## Technology Stack
 
 - Node.js
-
 - JavaScript / TypeScript
-
 - Git & GitHub
-
 - Cursor AI
 
 ## Development Approach
 
-This project follows AI-assisted development practices, including:
-
-- AI-assisted coding
-
-- Code review and critique
-
-- Conventional Commits
-
-- Version control with Git
-
+- AI-assisted coding with human review and critique
+- Conventional Commits and structured version control
 - Documented project conventions
 
 ## Project Status
 
-🚧 Setup phase — project development in progress.
+Setup phase — project scaffold and initial implementation in progress.
 
 ## Author
 
